@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165076384472",
+    "project_id": "capcut-template-4d68a",
+    "storage_bucket": "capcut-template-4d68a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165076384472:android:1346c63abc16886dc4f5ad",
+        "android_client_info": {
+          "package_name": "com.putriayu.capcut.template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqDRSZi289uMomamDZ3vwf6vITVVgEHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
